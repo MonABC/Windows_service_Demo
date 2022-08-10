@@ -1,0 +1,10 @@
+D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe.config
+D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.pdb
+D:\Service\WindowsService01090822\WindowsService01090822\obj\Debug\WindowsService01090822.csproj.AssemblyReference.cache
+D:\Service\WindowsService01090822\WindowsService01090822\obj\Debug\WindowsService01090822.csproj.SuggestedBindingRedirects.cache
+D:\Service\WindowsService01090822\WindowsService01090822\obj\Debug\WindowsService01090822.ProjectInstaller.resources
+D:\Service\WindowsService01090822\WindowsService01090822\obj\Debug\WindowsService01090822.csproj.GenerateResource.cache
+D:\Service\WindowsService01090822\WindowsService01090822\obj\Debug\WindowsService01090822.csproj.CoreCompileInputs.cache
+D:\Service\WindowsService01090822\WindowsService01090822\obj\Debug\WindowsService01090822.exe
+D:\Service\WindowsService01090822\WindowsService01090822\obj\Debug\WindowsService01090822.pdb

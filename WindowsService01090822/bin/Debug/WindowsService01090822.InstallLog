@@ -1,0 +1,204 @@
+﻿Installing assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Installing service ServiceName01090822...
+Service ServiceName01090822 has been successfully installed.
+Creating EventLog source ServiceName01090822 in log Application...
+Committing assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Uninstalling assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Removing EventLog source ServiceName01090822.
+Service ServiceName01090822 is being removed from the system...
+Service ServiceName01090822 was successfully removed from the system.
+Installing assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Installing service ServiceName01090822...
+Service ServiceName01090822 has been successfully installed.
+Creating EventLog source ServiceName01090822 in log Application...
+Committing assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Uninstalling assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Removing EventLog source ServiceName01090822.
+Service ServiceName01090822 is being removed from the system...
+Service ServiceName01090822 was successfully removed from the system.
+Uninstalling assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Removing EventLog source ServiceName01090822.
+Warning: The source ServiceName01090822 is not registered on the local machine.
+Service ServiceName01090822 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Installing service ServiceName01090822...
+Service ServiceName01090822 has been successfully installed.
+Creating EventLog source ServiceName01090822 in log Application...
+Committing assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Uninstalling assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Removing EventLog source ServiceName01090822.
+Service ServiceName01090822 is being removed from the system...
+Service ServiceName01090822 was successfully removed from the system.
+Uninstalling assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Removing EventLog source ServiceName01090822.
+Warning: The source ServiceName01090822 is not registered on the local machine.
+Service ServiceName01090822 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Installing service ServiceName01090822...
+Service ServiceName01090822 has been successfully installed.
+Creating EventLog source ServiceName01090822 in log Application...
+Committing assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Uninstalling assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Removing EventLog source ServiceName01090822.
+Service ServiceName01090822 is being removed from the system...
+Service ServiceName01090822 was successfully removed from the system.
+Installing assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Installing service ServiceName01090822...
+Service ServiceName01090822 has been successfully installed.
+Creating EventLog source ServiceName01090822 in log Application...
+Committing assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Uninstalling assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Removing EventLog source ServiceName01090822.
+Service ServiceName01090822 is being removed from the system...
+Service ServiceName01090822 was successfully removed from the system.
+Installing assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Installing service ServiceName01090822...
+Service ServiceName01090822 has been successfully installed.
+Creating EventLog source ServiceName01090822 in log Application...
+Committing assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Uninstalling assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Removing EventLog source ServiceName01090822.
+Service ServiceName01090822 is being removed from the system...
+Service ServiceName01090822 was successfully removed from the system.
+Uninstalling assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Removing EventLog source ServiceName01090822.
+Warning: The source ServiceName01090822 is not registered on the local machine.
+Service ServiceName01090822 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Installing service ServiceName01090822...
+Service ServiceName01090822 has been successfully installed.
+Creating EventLog source ServiceName01090822 in log Application...
+Committing assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Uninstalling assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Removing EventLog source ServiceName01090822.
+Service ServiceName01090822 is being removed from the system...
+Service ServiceName01090822 was successfully removed from the system.
+Uninstalling assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Removing EventLog source ServiceName01090822.
+Warning: The source ServiceName01090822 is not registered on the local machine.
+Service ServiceName01090822 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
+Installing service ServiceName01090822...
+Service ServiceName01090822 has been successfully installed.
+Creating EventLog source ServiceName01090822 in log Application...
+Committing assembly 'D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.InstallLog
+   assemblypath = D:\Service\WindowsService01090822\WindowsService01090822\bin\Debug\WindowsService01090822.exe
